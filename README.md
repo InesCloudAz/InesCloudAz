@@ -11,7 +11,7 @@ Welcome to my GitHub!
 
 🌱 Building projects using C#, HTML, CSS, JavaScript, and React.
 
-☁️ Currently exploring Cloud development with Azure, including services like App Services, Azure SQL, and DevOps pipelines
+☁️ Currently exploring Cloud development with Azure, including services like App Services, Azure SQL, Web App and DevOps pipelines
 
 🏋️‍♀️ Outside of code, I'm a strength training enthusiast — fitness is my passion!
 
