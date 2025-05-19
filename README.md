@@ -8,10 +8,15 @@ Welcome to my GitHub!
 
 
 🛠️ I'm currently studying **Software Development** with a focus on web technologies.
+
 🌱 Building projects using C#, HTML, CSS, JavaScript, and React.
+
 ☁️ Currently exploring Cloud development with Azure, including services like App Services, Azure SQL, and DevOps pipelines
+
 🏋️‍♀️ Outside of code, I'm a strength training enthusiast — fitness is my passion!
+
 🌍 I speak **French, Arabic, Swedish**, and **English** — not just programming languages!
+
 🔮 Fun fact: I'm on a mission to combine tech with creativity and well-being.
 
 
@@ -21,6 +26,7 @@ C# • CSS • JavaScript • Git • Azure • DevOps • .NET • Vite • HTM
 
 ## 📫 How to reach me
 inesazouz@gmail.com 
+
 www.linkedin.com/in/ines-azouz-69447110b
 
 Thanks for stopping by! 💖
